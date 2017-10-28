@@ -8,7 +8,7 @@
     "**/CVS": true,
     "**/.DS_Store": true,
     ".vscode": true,
-    "dist": true,
+    "dist": false,
     "node_modules": true,
     ".editorconfig": true,
     ".gitignore": true,
