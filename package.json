@@ -1,0 +1,20 @@
+{
+  "name": "d3v4-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server --content-base dist/ --open"
+  },
+
+  "dependencies": {
+    "d3": "^4.11.0"
+  },
+  "devDependencies": {
+    "@types/d3": "^4.11.0",
+    "ts-loader": "^2.3.3",
+    "typescript": "^2.4.2",
+    "webpack": "^3.5.5",
+    "webpack-dev-server": "^2.7.1"
+  }
+}

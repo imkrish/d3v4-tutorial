@@ -1,0 +1,18 @@
+{
+  "tsimporter.emitSemicolon": false,
+  "files.autoSave": "onFocusChange",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    ".vscode": true,
+    "dist": true,
+    "node_modules": true,
+    ".editorconfig": true,
+    ".gitignore": true,
+    "webpack.config.js": true,
+    "yarn.lock": true
+  }
+}
